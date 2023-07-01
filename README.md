@@ -9,3 +9,5 @@
 Simple example of MF with angular + NX
 
 Include: dashboard and login module 
+
+Based on this guide: https://nx.dev/recipes/module-federation/dynamic-module-federation-with-angular
